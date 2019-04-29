@@ -1448,11 +1448,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Theos\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj",
+      "projectUniqueName": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj",
       "projectName": "TheosWebApplication.APP",
-      "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj",
+      "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj",
       "packagesPath": "C:\\Users\\wilkson.tavares\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Theos\\TheosWebApplication.APP\\obj\\",
+      "outputPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.APP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1472,11 +1472,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj"
+            "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj"
             },
-            "C:\\Projetos\\Theos\\TheosWebApplication.Resources\\TheosWebApplication.Resources.csproj": {
-              "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.Resources\\TheosWebApplication.Resources.csproj"
+            "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Resources\\TheosWebApplication.Resources.csproj": {
+              "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Resources\\TheosWebApplication.Resources.csproj"
             }
           }
         }

@@ -12,3 +12,17 @@ C:\Projetos\Theos\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplic
 C:\Projetos\Theos\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.csproj.CopyComplete
 C:\Projetos\Theos\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.dll
 C:\Projetos\Theos\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.pdb
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.APP.deps.json
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.APP.dll
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.APP.pdb
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.dll
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.Resources.dll
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.pdb
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\bin\Debug\netcoreapp2.0\TheosWebApplication.Resources.pdb
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.csprojResolveAssemblyReference.cache
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.csproj.CoreCompileInputs.cache
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.AssemblyInfoInputs.cache
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.AssemblyInfo.cs
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.csproj.CopyComplete
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.dll
+C:\Projetos\teste.dotNet\TheosWebApplication.APP\obj\Debug\netcoreapp2.0\TheosWebApplication.APP.pdb

@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Theos\\TheosWebApplication\\TheosWebApplication.API.csproj",
+      "projectUniqueName": "C:\\Projetos\\teste.dotNet\\TheosWebApplication\\TheosWebApplication.API.csproj",
       "projectName": "TheosWebApplication.API",
-      "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication\\TheosWebApplication.API.csproj",
+      "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication\\TheosWebApplication.API.csproj",
       "packagesPath": "C:\\Users\\wilkson.tavares\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Theos\\TheosWebApplication\\obj\\",
+      "outputPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12972,14 +12972,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Projetos\\Theos\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj": {
-              "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj"
+            "C:\\Projetos\\teste.dotNet\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj": {
+              "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.APP\\TheosWebApplication.APP.csproj"
             },
-            "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj": {
-              "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj"
+            "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj": {
+              "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj"
             },
-            "C:\\Projetos\\Theos\\TheosWebApplication.Impl\\TheosWebApplication.Impl.csproj": {
-              "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.Impl\\TheosWebApplication.Impl.csproj"
+            "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Impl\\TheosWebApplication.Impl.csproj": {
+              "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Impl\\TheosWebApplication.Impl.csproj"
             }
           }
         }

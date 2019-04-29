@@ -671,11 +671,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj",
+      "projectUniqueName": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj",
       "projectName": "TheosWebApplication.Domain",
-      "projectPath": "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj",
+      "projectPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\TheosWebApplication.Domain.csproj",
       "packagesPath": "C:\\Users\\wilkson.tavares\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\Theos\\TheosWebApplication.Domain\\obj\\",
+      "outputPath": "C:\\Projetos\\teste.dotNet\\TheosWebApplication.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
