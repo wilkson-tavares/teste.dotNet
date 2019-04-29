@@ -1,0 +1,11 @@
+C:\Projetos\Theos\TheosWebApplication\bin\Debug\netcoreapp2.0\TheosWebApplication.deps.json
+C:\Projetos\Theos\TheosWebApplication\bin\Debug\netcoreapp2.0\TheosWebApplication.runtimeconfig.json
+C:\Projetos\Theos\TheosWebApplication\bin\Debug\netcoreapp2.0\TheosWebApplication.runtimeconfig.dev.json
+C:\Projetos\Theos\TheosWebApplication\bin\Debug\netcoreapp2.0\TheosWebApplication.dll
+C:\Projetos\Theos\TheosWebApplication\bin\Debug\netcoreapp2.0\TheosWebApplication.pdb
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.csprojResolveAssemblyReference.cache
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.csproj.CoreCompileInputs.cache
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.AssemblyInfoInputs.cache
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.AssemblyInfo.cs
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.dll
+C:\Projetos\Theos\TheosWebApplication\obj\Debug\netcoreapp2.0\TheosWebApplication.pdb

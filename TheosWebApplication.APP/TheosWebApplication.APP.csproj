@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TheosWebApplication.Domain\TheosWebApplication.Domain.csproj" />
+    <ProjectReference Include="..\TheosWebApplication.Resources\TheosWebApplication.Resources.csproj" />
+  </ItemGroup>
+
+</Project>

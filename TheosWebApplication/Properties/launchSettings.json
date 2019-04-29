@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "TheosWebApplication.API": {
+      "commandName": "Project",
+      "launchUrl": "api/values",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "DEFAULT_CONNECTION": "NhnwPj5pI/LKiK4/qaWkU4QQjYMzs45epz2EBS+TrDH5+cHyMfBGZuHG4tBDYGJzmE8/n8I6f3Ktf7AMF3iemSAQgQRciZegjoy6xwq5J2B1DV/2k7JzWDXXoGgdRGOb5oPFyhLn8OHSMq54vz2YNtQYPQxoI+Gl8ZZlwct5qVF+b7IEGby0kSGYncbOwbLOUEI3cc4kFFQIYWG6JDuh6FXL8horQTg5zYWiSzGIloJ5z5fziOk24NW81jQ94TZh1DpzGnkpogGhiaSScPetGQcOTtkAhwhP/7O82KfSJ79lJcne1wzt+044KQ7k2EO8Pw+ravK3C21lOdwkVU0xJg=="
+      },
+      "applicationUrl": "http://localhost:55519/"
+    }
+  }
+}

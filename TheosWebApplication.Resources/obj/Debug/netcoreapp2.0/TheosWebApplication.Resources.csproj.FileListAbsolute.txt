@@ -1,0 +1,11 @@
+C:\Projetos\Theos\TheosWebApplication.Resources\bin\Debug\netcoreapp2.0\TheosWebApplication.Resources.deps.json
+C:\Projetos\Theos\TheosWebApplication.Resources\bin\Debug\netcoreapp2.0\TheosWebApplication.Resources.dll
+C:\Projetos\Theos\TheosWebApplication.Resources\bin\Debug\netcoreapp2.0\TheosWebApplication.Resources.pdb
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.csprojResolveAssemblyReference.cache
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.MessagesAPI.resources
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.csproj.GenerateResource.cache
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.csproj.CoreCompileInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.AssemblyInfoInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.AssemblyInfo.cs
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.dll
+C:\Projetos\Theos\TheosWebApplication.Resources\obj\Debug\netcoreapp2.0\TheosWebApplication.Resources.pdb

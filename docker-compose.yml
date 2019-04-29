@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  theos:
+    image: theos
+    build:
+      context: .
+      dockerfile: Theos/Dockerfile
+
+  theoswebapplication:
+    image: theoswebapplication
+    build:
+      context: .
+      dockerfile: TheosWebApplication/Dockerfile
+

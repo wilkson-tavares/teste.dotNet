@@ -1,0 +1,6 @@
+IF EXISTS (SELECT name FROM master.dbo.sysdatabases where name = N'BD_LIVRARIA')
+	DROP DATABASE [BD_LIVRARIA]
+GO
+GO
+CREATE DATABASE [BD_LIVRARIA]
+GO

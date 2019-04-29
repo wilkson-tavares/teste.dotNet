@@ -1,0 +1,14 @@
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Impl.deps.json
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Impl.runtimeconfig.json
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Impl.runtimeconfig.dev.json
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Impl.dll
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Impl.pdb
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.dll
+C:\Projetos\Theos\TheosWebApplication.Impl\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.pdb
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.csprojResolveAssemblyReference.cache
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.csproj.CoreCompileInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.AssemblyInfoInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.AssemblyInfo.cs
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.csproj.CopyComplete
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.dll
+C:\Projetos\Theos\TheosWebApplication.Impl\obj\Debug\netcoreapp2.0\TheosWebApplication.Impl.pdb

@@ -1,0 +1,8 @@
+C:\Projetos\Theos\TheosWebApplication.Domain\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.deps.json
+C:\Projetos\Theos\TheosWebApplication.Domain\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.dll
+C:\Projetos\Theos\TheosWebApplication.Domain\bin\Debug\netcoreapp2.0\TheosWebApplication.Domain.pdb
+C:\Projetos\Theos\TheosWebApplication.Domain\obj\Debug\netcoreapp2.0\TheosWebApplication.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Domain\obj\Debug\netcoreapp2.0\TheosWebApplication.Domain.AssemblyInfoInputs.cache
+C:\Projetos\Theos\TheosWebApplication.Domain\obj\Debug\netcoreapp2.0\TheosWebApplication.Domain.AssemblyInfo.cs
+C:\Projetos\Theos\TheosWebApplication.Domain\obj\Debug\netcoreapp2.0\TheosWebApplication.Domain.dll
+C:\Projetos\Theos\TheosWebApplication.Domain\obj\Debug\netcoreapp2.0\TheosWebApplication.Domain.pdb
